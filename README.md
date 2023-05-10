@@ -1,2 +1,1 @@
-# Nuevo-repositorio-soyhenry-10-05
-Repositorio de prueba M2 del prepcourse soyhenry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi pc 
